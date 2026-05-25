@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "rabit",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Hello-rdsk.aternos.me",
+    "port": 47517,
     "version": "1.21.1"
   },
   "position": {
